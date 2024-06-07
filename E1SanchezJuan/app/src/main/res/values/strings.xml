@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">E1SanchezJuan.</string>
+    <string name="MainTitle">Tipping & Saving</string>
+    <string name="Label01">Original Price</string>
+    <string name="Label02">Percentage</string>
+    <string name="Label03">Total</string>
+    <string name="Button_Tip">Tip</string>
+    <string name="Button_Discount">Discount</string>
+    <string name="First_Percentage">10%</string>
+    <string name="Second_Percentage">15%</string>
+    <string name="Third_Percentage">20%</string>
+    <string name="Forth_Percentage">25%</string>
+    <string name="Fifth_Percentage">30%</string>
+    <string name="Sixth_Percentage">40%</string>
+    <string name="PlaceHolderPercentage">0.0</string>
+    <string name="PlaceHolderTotal">0.0</string>
+</resources>
