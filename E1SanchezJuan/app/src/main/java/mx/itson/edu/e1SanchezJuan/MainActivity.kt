@@ -69,7 +69,7 @@ class MainActivity : AppCompatActivity() {
             val entradaPrecioString = entradaPrecio.text.toString()
             val entradaPrecioToDouble = entradaPrecioString.toDoubleOrNull()
             entradaPrecioToDouble?.let {
-                displayValorPercentage.text = calcularPorcentaje(it, 0.35).toString()
+                displayValorPercentage.text = calcularPorcentaje(it, 0.40).toString()
             }
         }
 
