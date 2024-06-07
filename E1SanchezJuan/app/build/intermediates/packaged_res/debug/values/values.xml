@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="grey">#807E7B</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Button_Discount">Discount</string>
+    <string name="Button_Tip">Tip</string>
+    <string name="Fifth_Percentage">30%</string>
+    <string name="First_Percentage">10%</string>
+    <string name="Forth_Percentage">25%</string>
+    <string name="Label01">Original Price</string>
+    <string name="Label02">Percentage</string>
+    <string name="Label03">Total</string>
+    <string name="MainTitle">Tipping and Saving</string>
+    <string name="PlaceHolderPercentage">0.0</string>
+    <string name="PlaceHolderTotal">0.0</string>
+    <string name="Second_Percentage">15%</string>
+    <string name="Sixth_Percentage">40%</string>
+    <string name="Third_Percentage">20%</string>
+    <string name="app_name">E1SanchezJuan.</string>
+    <style name="Base.Theme.E1SanchezJuan" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.E1SanchezJuan" parent="Base.Theme.E1SanchezJuan"/>
+</resources>

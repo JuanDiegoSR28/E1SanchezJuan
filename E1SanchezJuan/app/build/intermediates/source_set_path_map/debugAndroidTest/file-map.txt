@@ -1,0 +1,6 @@
+mx.itson.edu.e1SanchezJuan.test.app-core-1.5.0-0 C:\Users\PC\.gradle\caches\transforms-3\4b1f0787700ccd7ac6c94a26acbfa747\transformed\core-1.5.0\res
+mx.itson.edu.e1SanchezJuan.test.app-annotation-experimental-1.3.0-1 C:\Users\PC\.gradle\caches\transforms-3\70d510d1ea77f94adf002972dd3d1d16\transformed\annotation-experimental-1.3.0\res
+mx.itson.edu.e1SanchezJuan.test.app-androidTest-2 C:\Users\PC\OneDrive\Documentos\GitHub\E1SanchezJuan\E1SanchezJuan\app\build\generated\res\resValues\androidTest\debug
+mx.itson.edu.e1SanchezJuan.test.app-mergeDebugAndroidTestResources-3 C:\Users\PC\OneDrive\Documentos\GitHub\E1SanchezJuan\E1SanchezJuan\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+mx.itson.edu.e1SanchezJuan.test.app-mergeDebugAndroidTestResources-4 C:\Users\PC\OneDrive\Documentos\GitHub\E1SanchezJuan\E1SanchezJuan\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+mx.itson.edu.e1SanchezJuan.test.app-merged_res-5 C:\Users\PC\OneDrive\Documentos\GitHub\E1SanchezJuan\E1SanchezJuan\app\build\intermediates\merged_res\debugAndroidTest
